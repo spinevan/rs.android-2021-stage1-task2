@@ -20,8 +20,6 @@ class Abbreviation {
             }
         }
 
-        println( resString )
-
         if ( b ==  resString)
             return "YES"
         else
